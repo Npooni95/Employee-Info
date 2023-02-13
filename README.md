@@ -1,2 +1,2 @@
 # Employee-Info
-It keeps track of Employee's inofrmation
+Employee information allows the user to store employee's information like first name, last name, email, and employee ID. 
